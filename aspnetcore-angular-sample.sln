@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aspnetcore-angular-sample", "aspnetcore-angular-sample.csproj", "{085BAB19-F466-44D8-B5B0-A3FFEC3278EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{085BAB19-F466-44D8-B5B0-A3FFEC3278EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{085BAB19-F466-44D8-B5B0-A3FFEC3278EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{085BAB19-F466-44D8-B5B0-A3FFEC3278EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{085BAB19-F466-44D8-B5B0-A3FFEC3278EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
